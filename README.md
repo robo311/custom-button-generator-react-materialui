@@ -6,16 +6,18 @@
 
 - User can generate own custom button.
 - Website has preview of the button with direct CSS output.
-- User has many options for customizing button such as width/height, colors, text, shadow, border and so on.
-- [Website](https://curious-kringle-d57150.netlify.app)
+- User has many options for customizing button such as width/height, colors, text, shadow, border...
+- [Website](https://robo311.github.io/custom-button-generator-react-materialui/)
 
 ## Screenshot
 
-![screenshot of the website](https://github.com/robo311/rock-paper-scissors-app-react/blob/master/web-screenshot.png)
+![screenshot of the website](https://github.com/robo311/custom-button-generator-react-materialui/blob/master/screenshots/large-dev-website.png)
+![screenshot of website for mobile](https://github.com/robo311/custom-button-generator-react-materialui/blob/master/screenshots/small-dev-screen.png)
 
 ## Built with
 
-- React (hooks, portal, useEffect)
+- ReactJS
+- Material UI
 - HTML
 - CSS
 
@@ -23,8 +25,7 @@
 
 - GitHub: [@robo311](https://github.com/robo311)
 - Discord: [@gatti#7613](https://discord.com)
-- Frontend Mentor: [@robo311](https://www.frontendmentor.io/profile/robo311)
 
 ### Additional info
 
-- Website is responsive
+- Website is made for mobile too with interactive hamburger menu.
