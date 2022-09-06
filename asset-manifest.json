@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-button-generator-react-materialui/static/css/main.66ce2125.css",
+    "main.js": "/custom-button-generator-react-materialui/static/js/main.d5b25357.js",
+    "index.html": "/custom-button-generator-react-materialui/index.html",
+    "main.66ce2125.css.map": "/custom-button-generator-react-materialui/static/css/main.66ce2125.css.map",
+    "main.d5b25357.js.map": "/custom-button-generator-react-materialui/static/js/main.d5b25357.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ce2125.css",
+    "static/js/main.d5b25357.js"
+  ]
+}
